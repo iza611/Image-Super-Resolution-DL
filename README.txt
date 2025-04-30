@@ -3,7 +3,7 @@ Deep convolutional neural network (DCNN) is a learning-based approach, as oppose
 example pixels calculation
 Suppose the settings of a SRCNN as: f1=9, f2=3, f3=5, such a network utilizes (9+3+5-2)^2 = 15^2 = 225 pixels of the low-resolution image to reconstruct a pixel in the high-resolution image.  
 
-![Alt text](https://img.freepik.com/free-vector/random-fun-hand-drawn-doodle-pattern-background_1048-19869.jpg)
+![Alt text](https://i.imgur.com/6IEKzja.jpeg)
 <img src="readme_imgs/PSNR_MSE.png" alt="Alt text" width="300"/>
 
 f and g – matrix data representing the ground truth image and the enhanced image, respectively 
