@@ -18,4 +18,4 @@ super-resolution algorithm. This way, the effectiveness of the algorithm can be 
 the PSNR value, the closer the enhanced image is to the ground truth image.  
 
 Results 
-![GT - ground truth; HR-Base - interpolation; HR-SRCNN - DL upscale](readme_imgs/results.pdf)
+![GT - ground truth; HR-Base - interpolation; HR-SRCNN - DL upscale](readme_imgs/results-1.png)
