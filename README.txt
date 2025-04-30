@@ -3,7 +3,7 @@ Deep convolutional neural network (DCNN) is a learning-based approach, as oppose
 example pixels calculation
 Suppose the settings of a SRCNN as: f1=9, f2=3, f3=5, such a network utilizes (9+3+5-2)^2 = 15^2 = 225 pixels of the low-resolution image to reconstruct a pixel in the high-resolution image.  
 
-![x](PSNR_MSE.png)
+![alt text](https://github.com/iza611/Image-Super-Resolution-DL/blob/main/PSNR_MSE.png?raw=true)
 
 f and g – matrix data representing the ground truth image and the enhanced image, respectively 
 R – maximum value in the ground truth image (usually R = 255) 
@@ -20,3 +20,4 @@ the PSNR value, the closer the enhanced image is to the ground truth image.
 
 Results 
 [GT - ground truth; HR-Base - interpolation; HR-SRCNN - DL upscale](results/results.pdf)
+![alt text](https://github.com/iza611/Image-Super-Resolution-DL/blob/main/results/results.pdf)
