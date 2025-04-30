@@ -4,6 +4,7 @@ example pixels calculation
 Suppose the settings of a SRCNN as: f1=9, f2=3, f3=5, such a network utilizes (9+3+5-2)^2 = 15^2 = 225 pixels of the low-resolution image to reconstruct a pixel in the high-resolution image.  
 
 ![Alt text](readme_imgs/PSNR_MSE.png)
+<img src="readme_imgs/PSNR_MSE.png" alt="Alt text" width="300"/>
 
 f and g – matrix data representing the ground truth image and the enhanced image, respectively 
 R – maximum value in the ground truth image (usually R = 255) 
